@@ -1,0 +1,4 @@
+node_modules/
+dist/
+systembgm/
+tsconfig.tsbuildinfo

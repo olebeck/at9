@@ -1,0 +1,17 @@
+{
+  "name": "at9decoder",
+  "version": "1.0.0",
+  "description": "at9 decoder and player",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "prepublish": "tsc && rollup -c"
+  },
+  "author": "olebeck",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^4.11.0",
+    "typescript": "^5.3.3"
+  }
+}
